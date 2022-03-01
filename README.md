@@ -30,6 +30,6 @@
   <a href="https://www.linkedin.com/in/Genivaldo-alves-dos-anjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Genivaldo2230/genivaldo2230/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Genivaldo2230/Genivaldo2230/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/Genivaldo2230/Genivaldo2230/commit/f789a8a122bc0b9dfce1c3a1e69e6cf758569877?diff=unified) 
   
 </div>
