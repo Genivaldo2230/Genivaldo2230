@@ -14,7 +14,7 @@ empregos:
       - usos: Platane/snk@master
         id: snake-gif
         com:
-          github_user_name: ThatianeDeboleto
+          github_user_name: Genivaldo2230
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - usos: crazy-max/ghaction-github-pages@v2.1.3
