@@ -1,6 +1,6 @@
 ## Oiii eu sou  Genivaldo Alves
 - 🖥 Acadêmica: Analise de sistemas e Desenvolvimento pelo Facudade Senac.
-- 🖋 Inicio desta jornada na programação: Janiero /22.
+- 🖋 Inicio desta jornada na programação: Janeiro 2022.
 - ⚡ Apaixonado por ajudar o próximo e espero utilizar de meus conhecimentos para esta nova fase.
 - 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
 
