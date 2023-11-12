@@ -25,13 +25,10 @@
  
 <div> 
 
-
-  <a href = "mailto:gda_anjos@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/genivaldo-anjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+<a href="https://wa.me/11960920552" target="_blank"><img src="your-icon-image-url.png" alt="WhatsApp"></a>
+  <a href = "mailto:gda_anjos@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/genivaldo-anjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://github.com/Genivaldo2230/genivaldo2230/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
   <a href="https://my-gitfolio.vercel.app/portfolio/Genivaldo2230#projects" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
