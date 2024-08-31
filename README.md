@@ -1,8 +1,12 @@
 ## Oiii eu sou  Genivaldo Alves
-- 🖥 Acadêmica: Analise de sistemas e Desenvolvimento pelo Facudade Senac.
+- 🖥 Formação Acadêmica: Analise de Sistemas e Desenvolvimento 2024.
+- Centro Universitário Senac-sp
 - 🖋 Inicio desta jornada na programação: Janeiro 2022.
-- ⚡ Apaixonado por ajudar o próximo e espero utilizar de meus conhecimentos para esta nova fase.
+- ⚡ Apaixonado por Tecnologia como pode facilita o Dia a Dia
+-  Ajudar o próximo e espero utilizar de meus conhecimentos !!!.
+-  
 - 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
+- 👨‍⚕️ livro Toc na Cuca 
 
 <div align="center">
   <a href="https://github.com/Genivaldo2230">
