@@ -10,7 +10,7 @@
 
 🔗 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/genivaldo-anjos/)
-- 📫 E-mail: [SeuE-mailAqui@email.com]
+  
 
 ---
 💡 "A tecnologia move o mundo — e eu movo a tecnologia com paixão e propósito."
