@@ -1,4 +1,21 @@
-## Oiii eu sou  Genivaldo Alves
+## Olá, eu sou o Genivaldo! 👋
+
+🎯 Desenvolvedor de Software apaixonado por tecnologia, com foco em criar soluções robustas e escaláveis utilizando Java (Spring Boot), C# (.NET), JavaScript e AWS.
+
+🚀 Buscando sempre evoluir minhas habilidades, atuo com desenvolvimento de APIs RESTful, integração de sistemas, arquitetura de software e práticas de DevOps (Docker, Git, CI/CD).
+
+🌎 Atualmente, trabalho como Freelancer em projetos de inovação tecnológica e estou sempre aberto a novas oportunidades que me desafiem a crescer e impactar positivamente as organizações.
+
+📚 Certificado em tecnologias da AWS, Microsoft e Rocketseat, sigo estudando diariamente para entregar código limpo, seguro e eficiente.
+
+🔗 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/genivaldo-anjos/)
+- 📫 E-mail: [SeuE-mailAqui@email.com]
+
+---
+💡 "A tecnologia move o mundo — e eu movo a tecnologia com paixão e propósito."
+
+
 - 🖥 Formação Acadêmica: Analise de Sistemas e Desenvolvimento 2024.
 - Centro Universitário Senac-sp
 - 🖋 Inicio desta jornada na programação: Janeiro 2022.
