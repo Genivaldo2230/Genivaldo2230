@@ -15,7 +15,7 @@
 
 ## 📚 Sobre minha trajetória:
 
-- 🖥 Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Conclusão prevista: 2024) — Centro Universitário Senac-SP.
+- 🖥 Formação Acadêmica: Análise e Desenvolvimento de Sistemas: em Julho de 2024 — Centro Universitário Senac-SP.
 - 🖋 Início da jornada na programação: Janeiro de 2022.
 - ⚡ Apaixonado por como a tecnologia pode facilitar o dia a dia e transformar vidas.
 - 💡 Movido pelo desejo de **ajudar o próximo** e aplicar meus conhecimentos para criar soluções que realmente façam a diferença.
