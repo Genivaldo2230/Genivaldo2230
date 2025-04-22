@@ -2,28 +2,30 @@
 
 🎯 Desenvolvedor de Software apaixonado por tecnologia, com foco em criar soluções robustas e escaláveis utilizando Java (Spring Boot), C# (.NET), JavaScript e AWS.
 
-🚀 Buscando sempre evoluir minhas habilidades, atuo com desenvolvimento de APIs RESTful, integração de sistemas, arquitetura de software e práticas de DevOps (Docker, Git, CI/CD).
+🚀 Buscando sempre evoluir minhas habilidades, atuo no desenvolvimento de APIs RESTful, integração de sistemas, arquitetura de software e práticas de DevOps (Docker, Git, CI/CD).
 
-🌎 Atualmente, trabalho como Freelancer em projetos de inovação tecnológica e estou sempre aberto a novas oportunidades que me desafiem a crescer e impactar positivamente as organizações.
+🌎 Atualmente, trabalho como Freelancer em projetos de inovação tecnológica e estou aberto a novas oportunidades que me desafiem a crescer e impactar positivamente organizações e pessoas.
 
 📚 Certificado em tecnologias da AWS, Microsoft e Rocketseat, sigo estudando diariamente para entregar código limpo, seguro e eficiente.
 
 🔗 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/genivaldo-anjos/)
-  
 
 ---
-💡 "A tecnologia move o mundo — e eu movo a tecnologia com paixão e propósito."
 
+## 📚 Sobre minha trajetória:
 
-- 🖥 Formação Acadêmica: Analise de Sistemas e Desenvolvimento 2024.
-- Centro Universitário Senac-sp
-- 🖋 Inicio desta jornada na programação: Janeiro 2022.
-- ⚡ Apaixonado por Tecnologia como pode facilita o Dia a Dia
--  Ajudar o próximo e espero utilizar de meus conhecimentos !!!.
--  
-- 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
-- 👨‍⚕️ livro Toc na Cuca 
+- 🖥 Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Conclusão prevista: 2024) — Centro Universitário Senac-SP.
+- 🖋 Início da jornada na programação: Janeiro de 2022.
+- ⚡ Apaixonado por como a tecnologia pode facilitar o dia a dia e transformar vidas.
+- 💡 Movido pelo desejo de **ajudar o próximo** e aplicar meus conhecimentos para criar soluções que realmente façam a diferença.
+- 📖 Leitor nas horas vagas: admirador de obras como **"O Pequeno Príncipe"** e **"Toc na Cuca"**.
+
+---
+💬 "Só se vê bem com o coração." — *O Pequeno Príncipe*
+
+💡 "A tecnologia move o mundo — e eu quero mover a tecnologia com paixão, propósito e colaboração."
+
 
 <div align="center">
   <a href="https://github.com/Genivaldo2230">
